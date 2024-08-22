@@ -1,0 +1,29 @@
+body {
+
+}
+
+header {
+	background: hsl(14, 96%, 48%);
+	padding: 20px 0;
+}
+
+.junina {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+img {
+	border: 5px solid #a20202;
+	border-radius: 20px;
+	display: inline-block;
+}
+
+.form {
+	border-radius: 20px;
+	width: 1000px;
+	background-color: aliceblue;
+	margin: 30px auto;
+	padding: 1em;
+}
